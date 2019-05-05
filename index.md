@@ -10,4 +10,4 @@ An exploration (and alternative implementation?) of the [Squirrel Language](http
 - [Bytecode Format](squirrel/bytecode)
 - [Links](squirrel/links)
 
-The name? **Xerus** is an african ground squirrel.
+The name? **Xerus** is an **african ground squirrel**.
